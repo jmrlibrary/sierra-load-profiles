@@ -1,1 +1,1 @@
-"Load profiles for global update in Sierra" 
+Load profiles for global update in Sierra
